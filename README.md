@@ -2,7 +2,7 @@
 Projects from CSCI 470: Artificial Inteligence
 This class explores the fundamentals and concepts of AI
 
-##Project 1: Pacman
+## Project 1: Pacman
 A list of the different questions can be  found [here](http://ai.berkeley.edu/search.html#Q1).
 
 In search.py you will find 4 algorithims implemented:
